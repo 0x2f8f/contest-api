@@ -1,1 +1,2 @@
-# contest-api
+# Contest API
+API application
